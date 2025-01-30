@@ -1,0 +1,53 @@
+body{
+    background-color: #FFEDFA;
+    color: #DE3163;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav{
+    padding: 1px;
+    position: sticky;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    background-color: #CCDF92;
+    border-radius: 5px;
+    box-shadow:1px 2px #DE3163;
+   
+}
+a{
+    text-decoration: none;
+    color: #DE3163;
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    box-shadow: 2px 3px 4px;
+}
+#introSection{
+    padding: 10px;
+    display: flex;
+}
+.profileimg{
+    
+    padding: 15px;
+  
+}
+.introBio{
+    padding: 15px;
+    padding-top: 100px;
+    margin: 20px;
+    background-color:#ccdf9224 ;
+}
+
+
