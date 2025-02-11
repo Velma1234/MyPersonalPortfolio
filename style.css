@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
   }
+
 body{
     background-color:#ccd5af4a;
     
@@ -80,6 +81,7 @@ img{
     background-color: #E195AB;
     border-radius: 5px;
     font-size: small;
+    justify-content: space-around;
     
     
 }
@@ -97,6 +99,7 @@ img{
     background-color: #E195AB;
     border-radius: 5px;
     font-size: small;
+    justify-content: space-around;
 }
 #PLs > div{
     padding: 40px;
@@ -108,5 +111,13 @@ img{
 }
 h3{
     text-align:center ;
+}
+
+footer{
+    padding:10px ;
+    margin: 10px;
+    align-items: center;
+    
+
 }
 
